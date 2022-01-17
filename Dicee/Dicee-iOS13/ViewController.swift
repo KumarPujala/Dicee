@@ -17,8 +17,8 @@ class ViewController: UIViewController {
 //   Declared array of images.
     
     let images: [UIImage] = [
-    UIImage(named: "DiceOne")!,
     UIImage(named: "DiceTwo")!,
+    UIImage(named: "DiceOne")!, 
     UIImage(named: "DiceThree")!,
     UIImage(named: "DiceFour")!,
     UIImage(named: "DiceFive")!,
